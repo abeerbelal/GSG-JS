@@ -1,0 +1,27 @@
+[
+    {
+      "title": "Movie 1",
+      "director": "Director 1",
+      "year": 2020,
+      "genre": "Genre 1"
+    },
+    {
+      "title": "Movie 2",
+      "director": "Director 2",
+      "year": 2019,
+      "genre": "Genre 2"
+    },
+    {
+      "title": "Movie 3",
+      "director": "Director 3",
+      "year": 2021,
+      "genre": "Genre 3"
+    },
+    {
+      "title": "new one",
+      "director": "new dir",
+      "year": 2022,
+      "genre": "new genre"
+    }
+  ]
+  
